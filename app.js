@@ -11,6 +11,7 @@ function convert() {
     USD: 1,
     EUR: 0.82,
     GBP: 0.72,
+    MYR: 4.33,
   };
 
   // Calculate conversion
